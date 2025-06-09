@@ -1,0 +1,10 @@
+ Car Make,Model,Kilometers Driven,Fuel Type,Transmission Type,Price,Location
+Maruti,Wagon R 1.0,43.40k km,Petrol,Auto,₹3.24 lakh,"Mulund West, Mumbai"
+Maruti,Alto K10,66.84k km,CNG,Manual,₹3.25 lakh,"Mulund West, Mumbai"
+Maruti,New Wagon-R,48.32k km,Petrol,Manual,₹4.45 lakh,N/A
+Maruti,Wagon R 1.0,56.00k km,Petrol,Manual,₹3.58 lakh,"Kandivali, Mumbai"
+Maruti,Celerio,83.71k km,Petrol,Manual,₹2.73 lakh,"Mulund West, Mumbai"
+Maruti,Celerio,20.59k km,CNG,Manual,₹4.24 lakh,"Goregaon, Mumbai"
+Maruti,Swift,56.01k km,Petrol,Manual,₹3.26 lakh,N/A
+Maruti,IGNIS,15.74k km,Petrol,Auto,₹6.61 lakh,"Goregaon, Mumbai"
+Maruti,Baleno,40.46k km,Petrol,Manual,₹4.84 lakh,N/A
