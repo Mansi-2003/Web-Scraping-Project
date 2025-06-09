@@ -1,6 +1,6 @@
 # Web Scraping of Maruti Car Listings from Cars24
 
-A Python-based project that automates the process of extracting car listings (e.g., Maruti cars in Mumbai) from [Cars24](https://www.cars24.com/), and exports the results in a structured CSV format for analysis.
+A Python-based project that automates the process of extracting car listings Maruti cars in Mumbai from [Cars24](https://www.cars24.com/), and exports the results in a structured CSV format for analysis.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
